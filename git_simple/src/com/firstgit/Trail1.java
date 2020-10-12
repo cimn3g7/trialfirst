@@ -6,7 +6,7 @@ public class Trail1 {
 		
 		int i=20;
 		System.out.println("multiplication is " +i*i );
-		
+		//this is try
 		
 	}
 	
